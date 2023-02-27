@@ -1,0 +1,20 @@
+Task 1: 2;
+
+Task 2: сначала 1, потом 2;
+
+Task 3: null;
+
+Task 4: сначала 1, потом undefined;
+
+Task 5: 3;
+
+Task 6: if (age >= 14 && age <= 90);
+
+Task 7:
+if (age < 14 || age > 90);
+if (!(age >= 14 && age <= 90));
+
+Task 8:
+if (-1 || 0) alert( 'first' ) => Выполнится. в скобках будут (true || false)
+if (-1 && 0) alert( 'second' ) => НЕ выполнится. В скобках будут (true && false) 
+if (null || -1 && 1) alert( 'third' ) => Выполнится. В скобках будут (false || true && true) => (false || true)
