@@ -1,3 +1,3 @@
-# learnJS_tasks
+# Completed learnJS tasks
 
-The collection of completed tasks from learn.javascript arranged in folders named according to the corresponding chapters.
+The collection of completed tasks from [**learn.javascript**](https://learn.javascript.ru/) arranged in folders named according to the corresponding chapters.
