@@ -5,7 +5,7 @@ async function getUsers(names) {
         if (!response || !response.ok) {
             return null;
         } else {
-            return await response.json();
+            return response.json();
         }
     });
 
